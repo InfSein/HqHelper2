@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HqHelper2", "HqHelper2\HqHelper2.csproj", "{6069B07F-F9EC-41D9-A089-C61558DB95FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6069B07F-F9EC-41D9-A089-C61558DB95FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6069B07F-F9EC-41D9-A089-C61558DB95FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6069B07F-F9EC-41D9-A089-C61558DB95FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6069B07F-F9EC-41D9-A089-C61558DB95FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A88C86A-AE06-46C3-96D0-258E475B3458}
+	EndGlobalSection
+EndGlobal
